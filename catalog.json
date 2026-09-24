@@ -1,0 +1,10 @@
+[
+  {"id":"p1","name":"Body de renda Aurora","category":"Lingerie","price_cents":8990,"variants":["P","M","G"],"active":false,"source":"DEMONSTRATIVO"},
+  {"id":"p2","name":"Camisola Noite Rosé","category":"Lingerie","price_cents":7490,"variants":["P","M","G"],"active":false,"source":"DEMONSTRATIVO"},
+  {"id":"p3","name":"Gel de massagem Frutas Vermelhas","category":"Cosméticos","price_cents":3990,"variants":["120 ml"],"active":false,"source":"DEMONSTRATIVO"},
+  {"id":"p4","name":"Óleo corporal Sensações","category":"Cosméticos","price_cents":4800,"variants":["100 ml"],"active":false,"source":"DEMONSTRATIVO"},
+  {"id":"p5","name":"Kit Momento a Dois","category":"Kits","price_cents":11990,"variants":["Único"],"active":false,"source":"DEMONSTRATIVO"},
+  {"id":"p6","name":"Venda de cetim","category":"Acessórios","price_cents":2990,"variants":["Preto","Vinho"],"active":false,"source":"DEMONSTRATIVO"},
+  {"id":"p7","name":"Robe Elegance","category":"Lingerie","price_cents":10990,"variants":["P/M","G/GG"],"active":false,"source":"DEMONSTRATIVO"},
+  {"id":"p8","name":"Vela de massagem Flor de Cerejeira","category":"Cosméticos","price_cents":5990,"variants":["Único"],"active":false,"source":"DEMONSTRATIVO"}
+]
