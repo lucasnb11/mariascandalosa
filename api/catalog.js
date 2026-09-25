@@ -1,0 +1,2 @@
+import {activeCatalog,config,json} from '../lib/payment.js';
+export default {fetch(request){if(request.method!=='GET')return json({error:'Método não permitido.'},405);const s=config();return json({ready:s.ready,products:s.ready?activeCatalog().map(p=>({id:p.id,name:p.name,category:p.category,price:p.price_cents/100,description:p.description||'',variants:p.variants,image:p.image||'',image_crop:p.image_crop,original_price_cents:p.original_price_cents,source:p.source,symbol:p.name.charAt(0)})):[]});}};
