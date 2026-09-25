@@ -246,6 +246,3131 @@
     "source_image_file": "7B9402BD-9148-402E-9CCD-7D9060D0DAC6.png"
   },
   {
+    "id": "ms-bol-001",
+    "name": "Bolinha Tailandesa",
+    "category": "Bolinhas Tailandesas",
+    "price_cents": 2400,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Único"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032749-01.webp",
+    "source_image_file": "image(20260925-032749).png",
+    "source_position": "032749:linha-1:coluna-1",
+    "original_price_cents": 3000
+  },
+  {
+    "id": "ms-bol-002",
+    "name": "Bolinha Tailandesa",
+    "category": "Bolinhas Tailandesas",
+    "price_cents": 3600,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Único"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032749-02.webp",
+    "source_image_file": "image(20260925-032749).png",
+    "source_position": "032749:linha-1:coluna-2",
+    "original_price_cents": 4000
+  },
+  {
+    "id": "ms-bol-003",
+    "name": "Bolinha Tailandesa",
+    "category": "Bolinhas Tailandesas",
+    "price_cents": 3800,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Único"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032749-03.webp",
+    "source_image_file": "image(20260925-032749).png",
+    "source_position": "032749:linha-2:coluna-1",
+    "original_price_cents": 4000
+  },
+  {
+    "id": "ms-bol-004",
+    "name": "Bolinha Tailandesa",
+    "category": "Bolinhas Tailandesas",
+    "price_cents": 3800,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Único"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032749-04.webp",
+    "source_image_file": "image(20260925-032749).png",
+    "source_position": "032749:linha-2:coluna-2",
+    "original_price_cents": 4000
+  },
+  {
+    "id": "ms-bol-005",
+    "name": "Bolinha Tailandesa P + Dado Rs",
+    "category": "Bolinhas Tailandesas",
+    "price_cents": 2800,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Único"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032749-05.webp",
+    "source_image_file": "image(20260925-032749).png",
+    "source_position": "032749:linha-3:coluna-1",
+    "original_price_cents": 3500
+  },
+  {
+    "id": "ms-bol-006",
+    "name": "Bolinha Tailandesa P + Dado Sm",
+    "category": "Bolinhas Tailandesas",
+    "price_cents": 2800,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Único"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032749-06.webp",
+    "source_image_file": "image(20260925-032749).png",
+    "source_position": "032749:linha-3:coluna-2",
+    "original_price_cents": 3500
+  },
+  {
+    "id": "ms-cinta-001",
+    "name": "Cinta Liga Caliente",
+    "category": "Cinta Liga",
+    "price_cents": 4500,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032847-01.webp",
+    "source_image_file": "image(20260925-032847).png",
+    "source_position": "032847:linha-1:coluna-1",
+    "original_price_cents": 5000
+  },
+  {
+    "id": "ms-cinta-002",
+    "name": "Cinta Liga Jovem",
+    "category": "Cinta Liga",
+    "price_cents": 5200,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "U · preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032847-02.webp",
+    "source_image_file": "image(20260925-032847).png",
+    "source_position": "032847:linha-1:coluna-2",
+    "original_price_cents": 6500
+  },
+  {
+    "id": "ms-cinta-003",
+    "name": "Cinta Liga Jovem",
+    "category": "Cinta Liga",
+    "price_cents": 5200,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "U · vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032847-03.webp",
+    "source_image_file": "image(20260925-032847).png",
+    "source_position": "032847:linha-2:coluna-1",
+    "original_price_cents": 6500
+  },
+  {
+    "id": "ms-cinta-004",
+    "name": "Cinta Liga Lá Vou Eu",
+    "category": "Cinta Liga",
+    "price_cents": 4125,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "G · preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032847-04.webp",
+    "source_image_file": "image(20260925-032847).png",
+    "source_position": "032847:linha-2:coluna-2",
+    "original_price_cents": 5500
+  },
+  {
+    "id": "ms-cinta-005",
+    "name": "Cinta Liga Lá Vou Eu",
+    "category": "Cinta Liga",
+    "price_cents": 4125,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "M · preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032847-05.webp",
+    "source_image_file": "image(20260925-032847).png",
+    "source_position": "032847:linha-3:coluna-1",
+    "original_price_cents": 5500
+  },
+  {
+    "id": "ms-cinta-006",
+    "name": "Cinta Liga Lá Vou Eu",
+    "category": "Cinta Liga",
+    "price_cents": 4125,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "M · vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032847-06.webp",
+    "source_image_file": "image(20260925-032847).png",
+    "source_position": "032847:linha-3:coluna-2",
+    "original_price_cents": 5500
+  },
+  {
+    "id": "ms-cinta-007",
+    "name": "Cinta Liga Lá Vou Eu",
+    "category": "Cinta Liga",
+    "price_cents": 4125,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "P · preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032847-07.webp",
+    "source_image_file": "image(20260925-032847).png",
+    "source_position": "032847:linha-4:coluna-1",
+    "original_price_cents": 5500
+  },
+  {
+    "id": "ms-cinta-008",
+    "name": "Cinta Liga Persex",
+    "category": "Cinta Liga",
+    "price_cents": 3575,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "U · branca"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032847-08.webp",
+    "source_image_file": "image(20260925-032847).png",
+    "source_position": "032847:linha-4:coluna-2",
+    "original_price_cents": 5500
+  },
+  {
+    "id": "ms-cinta-009",
+    "name": "Cinta Liga Renda",
+    "category": "Cinta Liga",
+    "price_cents": 1600,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "U · branca"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032849-01.webp",
+    "source_image_file": "image(20260925-032849).png",
+    "source_position": "032849:linha-1:coluna-1",
+    "original_price_cents": 4000
+  },
+  {
+    "id": "ms-cinta-010",
+    "name": "Cinta Liga Sensual",
+    "category": "Cinta Liga",
+    "price_cents": 3375,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "U · branca · modelo 01"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032849-02.webp",
+    "source_image_file": "image(20260925-032849).png",
+    "source_position": "032849:linha-1:coluna-2",
+    "original_price_cents": 4500
+  },
+  {
+    "id": "ms-cinta-011",
+    "name": "Cinta Liga Sensual",
+    "category": "Cinta Liga",
+    "price_cents": 3000,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "U · branca · modelo 02"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032849-03.webp",
+    "source_image_file": "image(20260925-032849).png",
+    "source_position": "032849:linha-2:coluna-1",
+    "original_price_cents": 5000
+  },
+  {
+    "id": "ms-cinta-012",
+    "name": "Cinta Liga Sensual",
+    "category": "Cinta Liga",
+    "price_cents": 3750,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "U · vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032849-04.webp",
+    "source_image_file": "image(20260925-032849).png",
+    "source_position": "032849:linha-2:coluna-2",
+    "original_price_cents": 5000
+  },
+  {
+    "id": "ms-beij-001",
+    "name": "Caneta comestível chocolate",
+    "category": "Beijáveis",
+    "price_cents": 800,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Chocolate"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032932-01.webp",
+    "source_image_file": "image(20260925-032932).png",
+    "source_position": "032932:linha-1:coluna-1",
+    "original_price_cents": 1000
+  },
+  {
+    "id": "ms-beij-002",
+    "name": "Caneta comestível menta",
+    "category": "Beijáveis",
+    "price_cents": 800,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Menta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032932-02.webp",
+    "source_image_file": "image(20260925-032932).png",
+    "source_position": "032932:linha-1:coluna-2",
+    "original_price_cents": 1000
+  },
+  {
+    "id": "ms-beij-003",
+    "name": "Caneta comestível morango",
+    "category": "Beijáveis",
+    "price_cents": 800,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Morango"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032932-03.webp",
+    "source_image_file": "image(20260925-032932).png",
+    "source_position": "032932:linha-2:coluna-1",
+    "original_price_cents": 1000
+  },
+  {
+    "id": "ms-beij-004",
+    "name": "Caneta comestível moranguete",
+    "category": "Beijáveis",
+    "price_cents": 800,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Moranguete"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032932-04.webp",
+    "source_image_file": "image(20260925-032932).png",
+    "source_position": "032932:linha-2:coluna-2",
+    "original_price_cents": 1000
+  },
+  {
+    "id": "ms-beij-005",
+    "name": "Caneta comestível uva",
+    "category": "Beijáveis",
+    "price_cents": 800,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Uva"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032932-05.webp",
+    "source_image_file": "image(20260925-032932).png",
+    "source_position": "032932:linha-3:coluna-1",
+    "original_price_cents": 1000
+  },
+  {
+    "id": "ms-beij-006",
+    "name": "Lamina Bucal Papermint",
+    "category": "Beijáveis",
+    "price_cents": 800,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "A confirmar"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032932-06.webp",
+    "source_image_file": "image(20260925-032932).png",
+    "source_position": "032932:linha-3:coluna-2"
+  },
+  {
+    "id": "ms-beij-007",
+    "name": "Lamina Bucal Sexy Paper Mor.",
+    "category": "Beijáveis",
+    "price_cents": 650,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "A confirmar"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032932-07.webp",
+    "source_image_file": "image(20260925-032932).png",
+    "source_position": "032932:linha-4:coluna-1",
+    "original_price_cents": 1000
+  },
+  {
+    "id": "ms-beij-008",
+    "name": "Vela Beijável Chillies Chic. 50g",
+    "category": "Beijáveis",
+    "price_cents": 0,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "A confirmar"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_PRICE",
+    "image": "assets/catalogo/032932-08.webp",
+    "source_image_file": "image(20260925-032932).png",
+    "source_position": "032932:linha-4:coluna-2"
+  },
+  {
+    "id": "ms-beij-009",
+    "name": "Vela Beijável Hidratante Uva 30g",
+    "category": "Beijáveis",
+    "price_cents": 1500,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Uva"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/032947-01.webp",
+    "source_image_file": "image(20260925-032947).png",
+    "source_position": "032947:linha-1:coluna-1",
+    "original_price_cents": 3000
+  },
+  {
+    "id": "ms-beij-010",
+    "name": "Vela Beijável Para Massagem Chic. 45 g",
+    "category": "Beijáveis",
+    "price_cents": 0,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "A confirmar"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_PRICE",
+    "image": "assets/catalogo/032947-02.webp",
+    "source_image_file": "image(20260925-032947).png",
+    "source_position": "032947:linha-1:coluna-2"
+  },
+  {
+    "id": "ms-body-001",
+    "name": "Body modelo 01 (G)",
+    "category": "Body",
+    "price_cents": 12250,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "G"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033054-01.webp",
+    "source_image_file": "image(20260925-033054).png",
+    "source_position": "033054:linha-1:coluna-1",
+    "catalog_label": "Body, G",
+    "original_price_cents": 17500
+  },
+  {
+    "id": "ms-body-002",
+    "name": "Body modelo 02 (G)",
+    "category": "Body",
+    "price_cents": 10150,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "G"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033054-02.webp",
+    "source_image_file": "image(20260925-033054).png",
+    "source_position": "033054:linha-1:coluna-2",
+    "catalog_label": "Body, G",
+    "original_price_cents": 14500
+  },
+  {
+    "id": "ms-body-003",
+    "name": "Body modelo 03 (G)",
+    "category": "Body",
+    "price_cents": 9600,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "G"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033054-03.webp",
+    "source_image_file": "image(20260925-033054).png",
+    "source_position": "033054:linha-2:coluna-1",
+    "catalog_label": "Body, G",
+    "original_price_cents": 12000
+  },
+  {
+    "id": "ms-body-004",
+    "name": "Body modelo 04 (G)",
+    "category": "Body",
+    "price_cents": 10150,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "G"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033054-04.webp",
+    "source_image_file": "image(20260925-033054).png",
+    "source_position": "033054:linha-2:coluna-2",
+    "catalog_label": "Body, G",
+    "original_price_cents": 14500
+  },
+  {
+    "id": "ms-body-005",
+    "name": "Body modelo 05 (G)",
+    "category": "Body",
+    "price_cents": 8050,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "G"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033054-05.webp",
+    "source_image_file": "image(20260925-033054).png",
+    "source_position": "033054:linha-3:coluna-1",
+    "catalog_label": "Body, G",
+    "original_price_cents": 11500
+  },
+  {
+    "id": "ms-body-006",
+    "name": "Body modelo 06 (G)",
+    "category": "Body",
+    "price_cents": 7350,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "G"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033054-06.webp",
+    "source_image_file": "image(20260925-033054).png",
+    "source_position": "033054:linha-3:coluna-2",
+    "catalog_label": "Body, G",
+    "original_price_cents": 10500
+  },
+  {
+    "id": "ms-body-007",
+    "name": "Body modelo 07 (G)",
+    "category": "Body",
+    "price_cents": 10400,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "G"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033054-07.webp",
+    "source_image_file": "image(20260925-033054).png",
+    "source_position": "033054:linha-4:coluna-1",
+    "catalog_label": "Body, G",
+    "original_price_cents": 13000
+  },
+  {
+    "id": "ms-body-008",
+    "name": "Body modelo 08 (G)",
+    "category": "Body",
+    "price_cents": 9800,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "G"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033054-08.webp",
+    "source_image_file": "image(20260925-033054).png",
+    "source_position": "033054:linha-4:coluna-2",
+    "catalog_label": "Body, G",
+    "original_price_cents": 14000
+  },
+  {
+    "id": "ms-body-009",
+    "name": "Body modelo 09 (M)",
+    "category": "Body",
+    "price_cents": 10850,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "M"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033119-01.webp",
+    "source_image_file": "image(20260925-033119).png",
+    "source_position": "033119:linha-1:coluna-1",
+    "catalog_label": "Body, M",
+    "original_price_cents": 15500
+  },
+  {
+    "id": "ms-body-010",
+    "name": "Body modelo 08 (M)",
+    "category": "Body",
+    "price_cents": 9800,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "M"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033119-02.webp",
+    "source_image_file": "image(20260925-033119).png",
+    "source_position": "033119:linha-1:coluna-2",
+    "catalog_label": "Body, M",
+    "original_price_cents": 14000
+  },
+  {
+    "id": "ms-body-011",
+    "name": "Body modelo 11 (M)",
+    "category": "Body",
+    "price_cents": 8750,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "M"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033119-03.webp",
+    "source_image_file": "image(20260925-033119).png",
+    "source_position": "033119:linha-2:coluna-1",
+    "catalog_label": "Body, M",
+    "original_price_cents": 12500
+  },
+  {
+    "id": "ms-body-012",
+    "name": "Body modelo 02 (M)",
+    "category": "Body",
+    "price_cents": 10150,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "M"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033119-04.webp",
+    "source_image_file": "image(20260925-033119).png",
+    "source_position": "033119:linha-2:coluna-2",
+    "catalog_label": "Body, M",
+    "original_price_cents": 14500
+  },
+  {
+    "id": "ms-body-013",
+    "name": "Body modelo 13 (M)",
+    "category": "Body",
+    "price_cents": 12000,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "M"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033119-05.webp",
+    "source_image_file": "image(20260925-033119).png",
+    "source_position": "033119:linha-3:coluna-1",
+    "catalog_label": "Body, M",
+    "original_price_cents": 16000
+  },
+  {
+    "id": "ms-body-014",
+    "name": "Body modelo 14 (M)",
+    "category": "Body",
+    "price_cents": 7600,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "M"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033119-06.webp",
+    "source_image_file": "image(20260925-033119).png",
+    "source_position": "033119:linha-3:coluna-2",
+    "catalog_label": "Body, M",
+    "original_price_cents": 9500
+  },
+  {
+    "id": "ms-body-015",
+    "name": "Body modelo 15 (M)",
+    "category": "Body",
+    "price_cents": 7350,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "M"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033119-07.webp",
+    "source_image_file": "image(20260925-033119).png",
+    "source_position": "033119:linha-4:coluna-1",
+    "catalog_label": "Body, M",
+    "original_price_cents": 10500
+  },
+  {
+    "id": "ms-body-016",
+    "name": "Body modelo 16 (M)",
+    "category": "Body",
+    "price_cents": 9375,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "M"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033119-08.webp",
+    "source_image_file": "image(20260925-033119).png",
+    "source_position": "033119:linha-4:coluna-2",
+    "catalog_label": "Body, M",
+    "original_price_cents": 12500
+  },
+  {
+    "id": "ms-body-017",
+    "name": "Body modelo 09 (P)",
+    "category": "Body",
+    "price_cents": 10850,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "P"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033138-01.webp",
+    "source_image_file": "image(20260925-033138).png",
+    "source_position": "033138:linha-1:coluna-1",
+    "catalog_label": "Body, P",
+    "original_price_cents": 15500
+  },
+  {
+    "id": "ms-body-018",
+    "name": "Body modelo 01 (P)",
+    "category": "Body",
+    "price_cents": 12250,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "P"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033138-02.webp",
+    "source_image_file": "image(20260925-033138).png",
+    "source_position": "033138:linha-1:coluna-2",
+    "catalog_label": "Body, P",
+    "original_price_cents": 17500
+  },
+  {
+    "id": "ms-body-019",
+    "name": "Body modelo 19 (P)",
+    "category": "Body",
+    "price_cents": 12750,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "P"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033138-03.webp",
+    "source_image_file": "image(20260925-033138).png",
+    "source_position": "033138:linha-2:coluna-1",
+    "catalog_label": "Body, P",
+    "original_price_cents": 17000
+  },
+  {
+    "id": "ms-sado-001",
+    "name": "Chicote Corda Sado Pt",
+    "category": "Sadomasoquismo",
+    "price_cents": 4200,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preto"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033319-01.webp",
+    "source_image_file": "image(20260925-033319).png",
+    "source_position": "033319:linha-1:coluna-1",
+    "original_price_cents": 6000
+  },
+  {
+    "id": "ms-sado-002",
+    "name": "Algema Abs Metalizada Less Hard",
+    "category": "Sadomasoquismo",
+    "price_cents": 3040,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033319-02.webp",
+    "source_image_file": "image(20260925-033319).png",
+    "source_position": "033319:linha-1:coluna-2",
+    "original_price_cents": 3200
+  },
+  {
+    "id": "ms-sado-003",
+    "name": "Algema Bracelete Luxo On",
+    "category": "Sadomasoquismo",
+    "price_cents": 1500,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Onça"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033319-03.webp",
+    "source_image_file": "image(20260925-033319).png",
+    "source_position": "033319:linha-2:coluna-1",
+    "original_price_cents": 2000
+  },
+  {
+    "id": "ms-sado-004",
+    "name": "Algema Bracelete Lyon",
+    "category": "Sadomasoquismo",
+    "price_cents": 3825,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033319-04.webp",
+    "source_image_file": "image(20260925-033319).png",
+    "source_position": "033319:linha-2:coluna-2",
+    "original_price_cents": 4500
+  },
+  {
+    "id": "ms-sado-005",
+    "name": "Algema Bracelete Pelúcia On, U",
+    "category": "Sadomasoquismo",
+    "price_cents": 2625,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Onça · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033319-05.webp",
+    "source_image_file": "image(20260925-033319).png",
+    "source_position": "033319:linha-3:coluna-1",
+    "original_price_cents": 3500
+  },
+  {
+    "id": "ms-sado-006",
+    "name": "Algema Bracelete Verniz",
+    "category": "Sadomasoquismo",
+    "price_cents": 3600,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033319-06.webp",
+    "source_image_file": "image(20260925-033319).png",
+    "source_position": "033319:linha-3:coluna-2",
+    "original_price_cents": 4500
+  },
+  {
+    "id": "ms-sado-007",
+    "name": "Algema Bracete Turim",
+    "category": "Sadomasoquismo",
+    "price_cents": 3825,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033319-07.webp",
+    "source_image_file": "image(20260925-033319).png",
+    "source_position": "033319:linha-4:coluna-1",
+    "original_price_cents": 4500
+  },
+  {
+    "id": "ms-sado-008",
+    "name": "Algema em Couro Coração Pt",
+    "category": "Sadomasoquismo",
+    "price_cents": 3500,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033319-08.webp",
+    "source_image_file": "image(20260925-033319).png",
+    "source_position": "033319:linha-4:coluna-2",
+    "original_price_cents": 5000
+  },
+  {
+    "id": "ms-sado-009",
+    "name": "Algema Metal Com Pelúcia",
+    "category": "Sadomasoquismo",
+    "price_cents": 2100,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033326-01.webp",
+    "source_image_file": "image(20260925-033326).png",
+    "source_position": "033326:linha-1:coluna-1",
+    "original_price_cents": 3000
+  },
+  {
+    "id": "ms-sado-010",
+    "name": "Algema Metal Com Pelúcia",
+    "category": "Sadomasoquismo",
+    "price_cents": 2100,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Onça"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033326-02.webp",
+    "source_image_file": "image(20260925-033326).png",
+    "source_position": "033326:linha-1:coluna-2",
+    "original_price_cents": 3500
+  },
+  {
+    "id": "ms-sado-011",
+    "name": "Algema Metal Com Pelúcia",
+    "category": "Sadomasoquismo",
+    "price_cents": 2100,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033326-03.webp",
+    "source_image_file": "image(20260925-033326).png",
+    "source_position": "033326:linha-2:coluna-1",
+    "original_price_cents": 3000
+  },
+  {
+    "id": "ms-sado-012",
+    "name": "Algema Metal Pride Hard",
+    "category": "Sadomasoquismo",
+    "price_cents": 6650,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Colorida"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033326-04.webp",
+    "source_image_file": "image(20260925-033326).png",
+    "source_position": "033326:linha-2:coluna-2",
+    "original_price_cents": 7000
+  },
+  {
+    "id": "ms-sado-013",
+    "name": "Algema Metal Reforçada",
+    "category": "Sadomasoquismo",
+    "price_cents": 3825,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033326-05.webp",
+    "source_image_file": "image(20260925-033326).png",
+    "source_position": "033326:linha-3:coluna-1",
+    "original_price_cents": 4800
+  },
+  {
+    "id": "ms-sado-014",
+    "name": "Algema Metal Resistente Cromada",
+    "category": "Sadomasoquismo",
+    "price_cents": 4560,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Cromada"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033326-06.webp",
+    "source_image_file": "image(20260925-033326).png",
+    "source_position": "033326:linha-3:coluna-2",
+    "original_price_cents": 4800
+  },
+  {
+    "id": "ms-sado-015",
+    "name": "Algema Metal Resistente Hard Cromada",
+    "category": "Sadomasoquismo",
+    "price_cents": 6375,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Cromada"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033326-07.webp",
+    "source_image_file": "image(20260925-033326).png",
+    "source_position": "033326:linha-4:coluna-1",
+    "original_price_cents": 7500
+  },
+  {
+    "id": "ms-sado-016",
+    "name": "Algema Metal Resistente Vm",
+    "category": "Sadomasoquismo",
+    "price_cents": 4050,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033326-08.webp",
+    "source_image_file": "image(20260925-033326).png",
+    "source_position": "033326:linha-4:coluna-2",
+    "original_price_cents": 4500
+  },
+  {
+    "id": "ms-sado-017",
+    "name": "Chibata Oval 25,5cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 2450,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033332-01.webp",
+    "source_image_file": "image(20260925-033332).png",
+    "source_position": "033332:linha-1:coluna-1",
+    "original_price_cents": 3500
+  },
+  {
+    "id": "ms-sado-018",
+    "name": "Chibata Pluma 15cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 3000,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033332-02.webp",
+    "source_image_file": "image(20260925-033332).png",
+    "source_position": "033332:linha-1:coluna-2",
+    "original_price_cents": 4000
+  },
+  {
+    "id": "ms-sado-019",
+    "name": "Chicote 8 tiras 40cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 3400,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preto"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033332-03.webp",
+    "source_image_file": "image(20260925-033332).png",
+    "source_position": "033332:linha-2:coluna-1",
+    "original_price_cents": 3800
+  },
+  {
+    "id": "ms-sado-020",
+    "name": "Chicote 8 tiras 40cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 3400,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelho e preto"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033332-04.webp",
+    "source_image_file": "image(20260925-033332).png",
+    "source_position": "033332:linha-2:coluna-2",
+    "original_price_cents": 3800
+  },
+  {
+    "id": "ms-sado-021",
+    "name": "Chicote Corda Sado Vm",
+    "category": "Sadomasoquismo",
+    "price_cents": 4200,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelho"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033332-05.webp",
+    "source_image_file": "image(20260925-033332).png",
+    "source_position": "033332:linha-3:coluna-1",
+    "original_price_cents": 6000
+  },
+  {
+    "id": "ms-sado-022",
+    "name": "Chicote Franja 30cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 2925,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelho"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033332-06.webp",
+    "source_image_file": "image(20260925-033332).png",
+    "source_position": "033332:linha-3:coluna-2",
+    "original_price_cents": 4500
+  },
+  {
+    "id": "ms-sado-023",
+    "name": "Chicote Franja 30cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 2925,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preto"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033332-07.webp",
+    "source_image_file": "image(20260925-033332).png",
+    "source_position": "033332:linha-4:coluna-1",
+    "original_price_cents": 4500
+  },
+  {
+    "id": "ms-sado-024",
+    "name": "Chicote Sino Tiras",
+    "category": "Sadomasoquismo",
+    "price_cents": 3575,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preto"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033332-08.webp",
+    "source_image_file": "image(20260925-033332).png",
+    "source_position": "033332:linha-4:coluna-2",
+    "original_price_cents": 5500
+  },
+  {
+    "id": "ms-sado-025",
+    "name": "Arreio Harness Dominatrix",
+    "category": "Sadomasoquismo",
+    "price_cents": 12800,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelho"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033337-01.webp",
+    "source_image_file": "image(20260925-033337).png",
+    "source_position": "033337:linha-1:coluna-1",
+    "original_price_cents": 16000
+  },
+  {
+    "id": "ms-sado-026",
+    "name": "Arreio Omg Harness Dominatrix",
+    "category": "Sadomasoquismo",
+    "price_cents": 13200,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preto"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033337-02.webp",
+    "source_image_file": "image(20260925-033337).png",
+    "source_position": "033337:linha-1:coluna-2",
+    "original_price_cents": 16500
+  },
+  {
+    "id": "ms-sado-027",
+    "name": "Chibata Coração 35cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 2000,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033337-03.webp",
+    "source_image_file": "image(20260925-033337).png",
+    "source_position": "033337:linha-2:coluna-1",
+    "original_price_cents": 2500
+  },
+  {
+    "id": "ms-sado-028",
+    "name": "Chibata Coração 35cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 2000,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033337-04.webp",
+    "source_image_file": "image(20260925-033337).png",
+    "source_position": "033337:linha-2:coluna-2",
+    "original_price_cents": 2500
+  },
+  {
+    "id": "ms-sado-029",
+    "name": "Chibata Couro 30cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 2400,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033337-05.webp",
+    "source_image_file": "image(20260925-033337).png",
+    "source_position": "033337:linha-3:coluna-1",
+    "original_price_cents": 3000
+  },
+  {
+    "id": "ms-sado-030",
+    "name": "Chibata Mãozinha 38cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 2000,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033337-06.webp",
+    "source_image_file": "image(20260925-033337).png",
+    "source_position": "033337:linha-3:coluna-2",
+    "original_price_cents": 2500
+  },
+  {
+    "id": "ms-sado-031",
+    "name": "Chibata Mãozinha 38cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 2000,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033337-07.webp",
+    "source_image_file": "image(20260925-033337).png",
+    "source_position": "033337:linha-4:coluna-1",
+    "original_price_cents": 2500
+  },
+  {
+    "id": "ms-sado-032",
+    "name": "Chibata Oval 25,5cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 2450,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033337-08.webp",
+    "source_image_file": "image(20260925-033337).png",
+    "source_position": "033337:linha-4:coluna-2",
+    "original_price_cents": 3500
+  },
+  {
+    "id": "ms-sado-033",
+    "name": "Chicote Tira de Corda 32cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 4200,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelho"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033403-01.webp",
+    "source_image_file": "image(20260925-033403).png",
+    "source_position": "033403:linha-1:coluna-1",
+    "original_price_cents": 6000
+  },
+  {
+    "id": "ms-sado-034",
+    "name": "Chicote Tira de Corda 32cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 3600,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Rosa"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033403-02.webp",
+    "source_image_file": "image(20260925-033403).png",
+    "source_position": "033403:linha-1:coluna-2",
+    "original_price_cents": 6000
+  },
+  {
+    "id": "ms-sado-035",
+    "name": "Chicote Tira de Corda 32cm Camuflado",
+    "category": "Sadomasoquismo",
+    "price_cents": 4200,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preto"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033403-03.webp",
+    "source_image_file": "image(20260925-033403).png",
+    "source_position": "033403:linha-2:coluna-1",
+    "original_price_cents": 6000
+  },
+  {
+    "id": "ms-sado-036",
+    "name": "Chicote Tiras Liso 20cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 2850,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelho"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033403-04.webp",
+    "source_image_file": "image(20260925-033403).png",
+    "source_position": "033403:linha-2:coluna-2",
+    "original_price_cents": 3800
+  },
+  {
+    "id": "ms-sado-037",
+    "name": "Chicote Tiras Liso 20cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 2850,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preto"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033403-05.webp",
+    "source_image_file": "image(20260925-033403).png",
+    "source_position": "033403:linha-3:coluna-1",
+    "original_price_cents": 3800
+  },
+  {
+    "id": "ms-sado-038",
+    "name": "Chicote Tiras Liso 20cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 2660,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Rosa"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033403-06.webp",
+    "source_image_file": "image(20260925-033403).png",
+    "source_position": "033403:linha-3:coluna-2",
+    "original_price_cents": 3800
+  },
+  {
+    "id": "ms-sado-039",
+    "name": "Coleira com Fivela e Guia",
+    "category": "Sadomasoquismo",
+    "price_cents": 4800,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033403-07.webp",
+    "source_image_file": "image(20260925-033403).png",
+    "source_position": "033403:linha-4:coluna-1",
+    "original_price_cents": 6000
+  },
+  {
+    "id": "ms-sado-040",
+    "name": "Coleira Personalizada",
+    "category": "Sadomasoquismo",
+    "price_cents": 3850,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033403-08.webp",
+    "source_image_file": "image(20260925-033403).png",
+    "source_position": "033403:linha-4:coluna-2",
+    "original_price_cents": 5500
+  },
+  {
+    "id": "ms-sado-041",
+    "name": "Kit Algema, Coleira e Tornozeleira Corrente",
+    "category": "Sadomasoquismo",
+    "price_cents": 10850,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preto"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033407-01.webp",
+    "source_image_file": "image(20260925-033407).png",
+    "source_position": "033407:linha-1:coluna-1",
+    "original_price_cents": 15500
+  },
+  {
+    "id": "ms-sado-042",
+    "name": "Kit Algema e Tornozeleira Corrente",
+    "category": "Sadomasoquismo",
+    "price_cents": 9100,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preto"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033407-02.webp",
+    "source_image_file": "image(20260925-033407).png",
+    "source_position": "033407:linha-1:coluna-2",
+    "original_price_cents": 13000
+  },
+  {
+    "id": "ms-sado-043",
+    "name": "Kit Dominatora 15cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 2250,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelho"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033407-03.webp",
+    "source_image_file": "image(20260925-033407).png",
+    "source_position": "033407:linha-2:coluna-1",
+    "original_price_cents": 3000
+  },
+  {
+    "id": "ms-sado-044",
+    "name": "Kit Máscara e Chicotinho 15cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 3375,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Onça"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033407-04.webp",
+    "source_image_file": "image(20260925-033407).png",
+    "source_position": "033407:linha-2:coluna-2",
+    "original_price_cents": 4500
+  },
+  {
+    "id": "ms-sado-045",
+    "name": "Kit Máscara e Chicotinho 15cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 1800,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Rosa"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033407-05.webp",
+    "source_image_file": "image(20260925-033407).png",
+    "source_position": "033407:linha-3:coluna-1",
+    "original_price_cents": 3000
+  },
+  {
+    "id": "ms-sado-046",
+    "name": "Kit Máscara e Chicotinho 15cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 2400,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelho"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033407-06.webp",
+    "source_image_file": "image(20260925-033407).png",
+    "source_position": "033407:linha-3:coluna-2",
+    "original_price_cents": 3000
+  },
+  {
+    "id": "ms-sado-047",
+    "name": "Kit Máscara Tiazinha C/Chibata 40cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 3600,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preto"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033407-07.webp",
+    "source_image_file": "image(20260925-033407).png",
+    "source_position": "033407:linha-4:coluna-1",
+    "original_price_cents": 4500
+  },
+  {
+    "id": "ms-sado-048",
+    "name": "Kit Mulher Gato 35cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 3850,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preto"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033407-08.webp",
+    "source_image_file": "image(20260925-033407).png",
+    "source_position": "033407:linha-4:coluna-2",
+    "original_price_cents": 5500
+  },
+  {
+    "id": "ms-sado-049",
+    "name": "Kit Tiazinha C/Chibata Oval 40cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 3600,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preto · modelo 01"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033551-01.webp",
+    "source_image_file": "image(20260925-033551).png",
+    "source_position": "033551:linha-1:coluna-1",
+    "original_price_cents": 4500
+  },
+  {
+    "id": "ms-sado-050",
+    "name": "Kit Tiazinha C/Chibata Oval 40cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 3200,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preto · modelo 02"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033551-02.webp",
+    "source_image_file": "image(20260925-033551).png",
+    "source_position": "033551:linha-1:coluna-2",
+    "original_price_cents": 4000
+  },
+  {
+    "id": "ms-sado-051",
+    "name": "Kit Tiazinha C/Chicote 40cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 4550,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preto"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033551-03.webp",
+    "source_image_file": "image(20260925-033551).png",
+    "source_position": "033551:linha-2:coluna-1",
+    "original_price_cents": 6500
+  },
+  {
+    "id": "ms-sado-052",
+    "name": "Kit Tiazinha com Chicote 20cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 3850,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preto"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033551-04.webp",
+    "source_image_file": "image(20260925-033551).png",
+    "source_position": "033551:linha-2:coluna-2",
+    "original_price_cents": 5500
+  },
+  {
+    "id": "ms-sado-053",
+    "name": "Kit Tiazinha com Chicote 20cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 3850,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelho"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033551-05.webp",
+    "source_image_file": "image(20260925-033551).png",
+    "source_position": "033551:linha-3:coluna-1",
+    "original_price_cents": 5500
+  },
+  {
+    "id": "ms-sado-054",
+    "name": "Liga de Perna Bebel Pt, U",
+    "category": "Sadomasoquismo",
+    "price_cents": 2000,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033551-06.webp",
+    "source_image_file": "image(20260925-033551).png",
+    "source_position": "033551:linha-3:coluna-2",
+    "original_price_cents": 2500
+  },
+  {
+    "id": "ms-sado-055",
+    "name": "Marcara Feminina",
+    "category": "Sadomasoquismo",
+    "price_cents": 1200,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033551-07.webp",
+    "source_image_file": "image(20260925-033551).png",
+    "source_position": "033551:linha-4:coluna-1"
+  },
+  {
+    "id": "ms-sado-056",
+    "name": "Máscara Empregada",
+    "category": "Sadomasoquismo",
+    "price_cents": 1625,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta e branca"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033551-08.webp",
+    "source_image_file": "image(20260925-033551).png",
+    "source_position": "033551:linha-4:coluna-2",
+    "original_price_cents": 2500
+  },
+  {
+    "id": "ms-sado-057",
+    "name": "Máscara Lavinia Br c/ Dou",
+    "category": "Sadomasoquismo",
+    "price_cents": 1750,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Branca"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033555-01.webp",
+    "source_image_file": "image(20260925-033555).png",
+    "source_position": "033555:linha-1:coluna-1",
+    "original_price_cents": 2500
+  },
+  {
+    "id": "ms-sado-058",
+    "name": "Máscara Luxo On",
+    "category": "Sadomasoquismo",
+    "price_cents": 1275,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Onça"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033555-02.webp",
+    "source_image_file": "image(20260925-033555).png",
+    "source_position": "033555:linha-1:coluna-2",
+    "original_price_cents": 1500
+  },
+  {
+    "id": "ms-sado-059",
+    "name": "Máscara Mulher Gato",
+    "category": "Sadomasoquismo",
+    "price_cents": 1125,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033555-03.webp",
+    "source_image_file": "image(20260925-033555).png",
+    "source_position": "033555:linha-2:coluna-1",
+    "original_price_cents": 1500
+  },
+  {
+    "id": "ms-sado-060",
+    "name": "Máscara Mulher Gato Verniz",
+    "category": "Sadomasoquismo",
+    "price_cents": 960,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033555-04.webp",
+    "source_image_file": "image(20260925-033555).png",
+    "source_position": "033555:linha-2:coluna-2",
+    "original_price_cents": 1200
+  },
+  {
+    "id": "ms-sado-061",
+    "name": "Máscara Nayla",
+    "category": "Sadomasoquismo",
+    "price_cents": 1875,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033555-05.webp",
+    "source_image_file": "image(20260925-033555).png",
+    "source_position": "033555:linha-3:coluna-1",
+    "original_price_cents": 2500
+  },
+  {
+    "id": "ms-sado-062",
+    "name": "Máscara Sensual Felina",
+    "category": "Sadomasoquismo",
+    "price_cents": 2375,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Onça"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033555-06.webp",
+    "source_image_file": "image(20260925-033555).png",
+    "source_position": "033555:linha-3:coluna-2",
+    "original_price_cents": 2500
+  },
+  {
+    "id": "ms-sado-063",
+    "name": "Máscara Tiazinha Pk",
+    "category": "Sadomasoquismo",
+    "price_cents": 640,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Rosa"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033555-07.webp",
+    "source_image_file": "image(20260925-033555).png",
+    "source_position": "033555:linha-4:coluna-1",
+    "original_price_cents": 800
+  },
+  {
+    "id": "ms-sado-064",
+    "name": "Máscara Tiazinha Pt",
+    "category": "Sadomasoquismo",
+    "price_cents": 1140,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033555-08.webp",
+    "source_image_file": "image(20260925-033555).png",
+    "source_position": "033555:linha-4:coluna-2",
+    "original_price_cents": 1200
+  },
+  {
+    "id": "ms-sado-065",
+    "name": "Máscara Tiazinha Rb",
+    "category": "Sadomasoquismo",
+    "price_cents": 760,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vinho"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033600-03.webp",
+    "source_image_file": "image(20260925-033600).png",
+    "source_position": "033600:linha-2:coluna-1",
+    "original_price_cents": 800
+  },
+  {
+    "id": "ms-sado-066",
+    "name": "Máscara Tiazinha Vm",
+    "category": "Sadomasoquismo",
+    "price_cents": 760,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033600-04.webp",
+    "source_image_file": "image(20260925-033600).png",
+    "source_position": "033600:linha-2:coluna-2",
+    "original_price_cents": 800
+  },
+  {
+    "id": "ms-sado-067",
+    "name": "Mordaça Bola Dominatrix",
+    "category": "Sadomasoquismo",
+    "price_cents": 4225,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033600-05.webp",
+    "source_image_file": "image(20260925-033600).png",
+    "source_position": "033600:linha-3:coluna-1",
+    "original_price_cents": 6500
+  },
+  {
+    "id": "ms-sado-068",
+    "name": "Mordaça Bola Rs",
+    "category": "Sadomasoquismo",
+    "price_cents": 3150,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Rosa"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033600-06.webp",
+    "source_image_file": "image(20260925-033600).png",
+    "source_position": "033600:linha-3:coluna-2",
+    "original_price_cents": 4500
+  },
+  {
+    "id": "ms-sado-069",
+    "name": "Mordaça Bola Sexy Import",
+    "category": "Sadomasoquismo",
+    "price_cents": 6400,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033600-07.webp",
+    "source_image_file": "image(20260925-033600).png",
+    "source_position": "033600:linha-4:coluna-1",
+    "original_price_cents": 8000
+  },
+  {
+    "id": "ms-sado-070",
+    "name": "Mordaça com Argola",
+    "category": "Sadomasoquismo",
+    "price_cents": 1950,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033600-08.webp",
+    "source_image_file": "image(20260925-033600).png",
+    "source_position": "033600:linha-4:coluna-2",
+    "original_price_cents": 3000
+  },
+  {
+    "id": "ms-sado-071",
+    "name": "Mordaça Com Bola Ajustável Ball Gag",
+    "category": "Sadomasoquismo",
+    "price_cents": 6375,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033610-03.webp",
+    "source_image_file": "image(20260925-033610).png",
+    "source_position": "033610:linha-2:coluna-1",
+    "original_price_cents": 8500
+  },
+  {
+    "id": "ms-sado-072",
+    "name": "Palmatória 4 Corações 32cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 1600,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta e vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033610-04.webp",
+    "source_image_file": "image(20260925-033610).png",
+    "source_position": "033610:linha-2:coluna-2",
+    "original_price_cents": 2000
+  },
+  {
+    "id": "ms-sado-073",
+    "name": "Palmatória Boca 25cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 2000,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta e vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033610-05.webp",
+    "source_image_file": "image(20260925-033610).png",
+    "source_position": "033610:linha-3:coluna-1",
+    "original_price_cents": 2500
+  },
+  {
+    "id": "ms-sado-074",
+    "name": "Pena Estimuladora Sado 32c",
+    "category": "Sadomasoquismo",
+    "price_cents": 2800,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033610-06.webp",
+    "source_image_file": "image(20260925-033610).png",
+    "source_position": "033610:linha-3:coluna-2",
+    "original_price_cents": 4000
+  },
+  {
+    "id": "ms-sado-075",
+    "name": "Separador de Braço Aluminio 15cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 5600,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Alumínio"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033610-07.webp",
+    "source_image_file": "image(20260925-033610).png",
+    "source_position": "033610:linha-4:coluna-1",
+    "original_price_cents": 8000
+  },
+  {
+    "id": "ms-sado-076",
+    "name": "Separador de Braços 20cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 4550,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preto"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033610-08.webp",
+    "source_image_file": "image(20260925-033610).png",
+    "source_position": "033610:linha-4:coluna-2",
+    "original_price_cents": 6500
+  },
+  {
+    "id": "ms-sado-077",
+    "name": "Separador de Pernas 50cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 6650,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preto"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033614-03.webp",
+    "source_image_file": "image(20260925-033614).png",
+    "source_position": "033614:linha-2:coluna-1",
+    "original_price_cents": 9500
+  },
+  {
+    "id": "ms-sado-078",
+    "name": "Separador de Pernas em Alumínio 50 cm",
+    "category": "Sadomasoquismo",
+    "price_cents": 7350,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Alumínio"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033614-04.webp",
+    "source_image_file": "image(20260925-033614).png",
+    "source_position": "033614:linha-2:coluna-2",
+    "original_price_cents": 10500
+  },
+  {
+    "id": "ms-sado-079",
+    "name": "Venda Aviador Pelúcia",
+    "category": "Sadomasoquismo",
+    "price_cents": 2375,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033614-05.webp",
+    "source_image_file": "image(20260925-033614).png",
+    "source_position": "033614:linha-3:coluna-1",
+    "original_price_cents": 2500
+  },
+  {
+    "id": "ms-sado-080",
+    "name": "Venda Aviador Pelúcia",
+    "category": "Sadomasoquismo",
+    "price_cents": 2375,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Onça"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033614-06.webp",
+    "source_image_file": "image(20260925-033614).png",
+    "source_position": "033614:linha-3:coluna-2",
+    "original_price_cents": 2500
+  },
+  {
+    "id": "ms-sado-081",
+    "name": "Venda Couro Vm",
+    "category": "Sadomasoquismo",
+    "price_cents": 1250,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033614-07.webp",
+    "source_image_file": "image(20260925-033614).png",
+    "source_position": "033614:linha-4:coluna-1",
+    "original_price_cents": 2500
+  },
+  {
+    "id": "ms-sado-082",
+    "name": "Venda Pelúcia, On",
+    "category": "Sadomasoquismo",
+    "price_cents": 2375,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Onça"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033614-08.webp",
+    "source_image_file": "image(20260925-033614).png",
+    "source_position": "033614:linha-4:coluna-2",
+    "original_price_cents": 2500
+  },
+  {
+    "id": "ms-sado-083",
+    "name": "Venda Retangular Luxo",
+    "category": "Sadomasoquismo",
+    "price_cents": 1125,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033616-01.webp",
+    "source_image_file": "image(20260925-033616).png",
+    "source_position": "033616:linha-1:coluna-1",
+    "original_price_cents": 1500
+  },
+  {
+    "id": "ms-sado-084",
+    "name": "Venda Tapa Olho Dominatrixxx, Pk",
+    "category": "Sadomasoquismo",
+    "price_cents": 700,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Rosa"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033616-02.webp",
+    "source_image_file": "image(20260925-033616).png",
+    "source_position": "033616:linha-1:coluna-2",
+    "original_price_cents": 1000
+  },
+  {
+    "id": "ms-sado-085",
+    "name": "Venda Tapa Olho Dominatrixxx, Pt",
+    "category": "Sadomasoquismo",
+    "price_cents": 1260,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033616-03.webp",
+    "source_image_file": "image(20260925-033616).png",
+    "source_position": "033616:linha-2:coluna-1",
+    "original_price_cents": 1800
+  },
+  {
+    "id": "ms-sado-086",
+    "name": "Venda Tapa Olho Pelúcia",
+    "category": "Sadomasoquismo",
+    "price_cents": 1750,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033616-04.webp",
+    "source_image_file": "image(20260925-033616).png",
+    "source_position": "033616:linha-2:coluna-2",
+    "original_price_cents": 2500
+  },
+  {
+    "id": "ms-sado-087",
+    "name": "Venda Tapa Olho Pelúcia",
+    "category": "Sadomasoquismo",
+    "price_cents": 1750,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033616-05.webp",
+    "source_image_file": "image(20260925-033616).png",
+    "source_position": "033616:linha-3:coluna-1",
+    "original_price_cents": 2500
+  },
+  {
+    "id": "ms-sado-088",
+    "name": "Venda Verniz",
+    "category": "Sadomasoquismo",
+    "price_cents": 1050,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/033616-06.webp",
+    "source_image_file": "image(20260925-033616).png",
+    "source_position": "033616:linha-3:coluna-2",
+    "original_price_cents": 1500
+  },
+  {
+    "id": "ms-aces-001",
+    "name": "Liga de Perna Extravagante Rx, U",
+    "category": "Acessórios",
+    "price_cents": 1100,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Roxa · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034041-01.webp",
+    "source_image_file": "image(20260925-034041).png",
+    "source_position": "034041:linha-1:coluna-1",
+    "original_price_cents": 2000
+  },
+  {
+    "id": "ms-aces-002",
+    "name": "Liga de Perna Fina Pt, U",
+    "category": "Acessórios",
+    "price_cents": 1350,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034041-02.webp",
+    "source_image_file": "image(20260925-034041).png",
+    "source_position": "034041:linha-1:coluna-2",
+    "original_price_cents": 1500
+  },
+  {
+    "id": "ms-aces-003",
+    "name": "Liga de Perna Lara Vm, U",
+    "category": "Acessórios",
+    "price_cents": 1100,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034041-03.webp",
+    "source_image_file": "image(20260925-034041).png",
+    "source_position": "034041:linha-2:coluna-1",
+    "original_price_cents": 2000
+  },
+  {
+    "id": "ms-aces-004",
+    "name": "Liga de Perna Larga Br, U",
+    "category": "Acessórios",
+    "price_cents": 1400,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Branca · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034041-04.webp",
+    "source_image_file": "image(20260925-034041).png",
+    "source_position": "034041:linha-2:coluna-2",
+    "original_price_cents": 2000
+  },
+  {
+    "id": "ms-aces-005",
+    "name": "Liga de Perna Nina Pt, U",
+    "category": "Acessórios",
+    "price_cents": 2400,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034041-05.webp",
+    "source_image_file": "image(20260925-034041).png",
+    "source_position": "034041:linha-3:coluna-1",
+    "original_price_cents": 4000
+  },
+  {
+    "id": "ms-aces-006",
+    "name": "Liga de Perna Noiva Fogosa",
+    "category": "Acessórios",
+    "price_cents": 1600,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034041-06.webp",
+    "source_image_file": "image(20260925-034041).png",
+    "source_position": "034041:linha-3:coluna-2",
+    "original_price_cents": 2000
+  },
+  {
+    "id": "ms-aces-007",
+    "name": "Liga de Perna On, U",
+    "category": "Acessórios",
+    "price_cents": 600,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Onça · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034041-07.webp",
+    "source_image_file": "image(20260925-034041).png",
+    "source_position": "034041:linha-4:coluna-1",
+    "original_price_cents": 1000
+  },
+  {
+    "id": "ms-aces-008",
+    "name": "Liga de Perna Pk, U",
+    "category": "Acessórios",
+    "price_cents": 1050,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Rosa · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034041-08.webp",
+    "source_image_file": "image(20260925-034041).png",
+    "source_position": "034041:linha-4:coluna-2",
+    "original_price_cents": 1500
+  },
+  {
+    "id": "ms-aces-009",
+    "name": "Liga de Perna Pura Pt, U",
+    "category": "Acessórios",
+    "price_cents": 1600,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034046-01.webp",
+    "source_image_file": "image(20260925-034046).png",
+    "source_position": "034046:linha-1:coluna-1",
+    "original_price_cents": 2000
+  },
+  {
+    "id": "ms-aces-010",
+    "name": "Liga de Perna Rb, U",
+    "category": "Acessórios",
+    "price_cents": 1800,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034046-02.webp",
+    "source_image_file": "image(20260925-034046).png",
+    "source_position": "034046:linha-1:coluna-2",
+    "original_price_cents": 3000
+  },
+  {
+    "id": "ms-aces-011",
+    "name": "Liga de Perna Refinada Vm, U",
+    "category": "Acessórios",
+    "price_cents": 2700,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034046-03.webp",
+    "source_image_file": "image(20260925-034046).png",
+    "source_position": "034046:linha-2:coluna-1",
+    "original_price_cents": 3000
+  },
+  {
+    "id": "ms-aces-012",
+    "name": "Liga de Perna Rendão Pt, U",
+    "category": "Acessórios",
+    "price_cents": 2100,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034046-04.webp",
+    "source_image_file": "image(20260925-034046).png",
+    "source_position": "034046:linha-2:coluna-2",
+    "original_price_cents": 3500
+  },
+  {
+    "id": "ms-aces-013",
+    "name": "Luva Arrastão Vm, U",
+    "category": "Acessórios",
+    "price_cents": 1000,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034046-05.webp",
+    "source_image_file": "image(20260925-034046).png",
+    "source_position": "034046:linha-3:coluna-1",
+    "original_price_cents": 2000
+  },
+  {
+    "id": "ms-aces-014",
+    "name": "Luva Curta Arrastão Vm, U",
+    "category": "Acessórios",
+    "price_cents": 1750,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034046-06.webp",
+    "source_image_file": "image(20260925-034046).png",
+    "source_position": "034046:linha-3:coluna-2",
+    "original_price_cents": 2500
+  },
+  {
+    "id": "ms-aces-015",
+    "name": "Luva Curta C/dedo Br, U",
+    "category": "Acessórios",
+    "price_cents": 2000,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Branca · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034046-07.webp",
+    "source_image_file": "image(20260925-034046).png",
+    "source_position": "034046:linha-4:coluna-1",
+    "original_price_cents": 4000
+  },
+  {
+    "id": "ms-aces-016",
+    "name": "Luva Curta Lara Vm, U",
+    "category": "Acessórios",
+    "price_cents": 1400,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034046-08.webp",
+    "source_image_file": "image(20260925-034046).png",
+    "source_position": "034046:linha-4:coluna-2",
+    "original_price_cents": 2000
+  },
+  {
+    "id": "ms-aces-017",
+    "name": "Luva Curta Lycra Pt, U",
+    "category": "Acessórios",
+    "price_cents": 2800,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034058-01.webp",
+    "source_image_file": "image(20260925-034058).png",
+    "source_position": "034058:linha-1:coluna-1",
+    "original_price_cents": 3500
+  },
+  {
+    "id": "ms-aces-018",
+    "name": "Luva Curta Mil Toques Vm, U",
+    "category": "Acessórios",
+    "price_cents": 2400,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034058-02.webp",
+    "source_image_file": "image(20260925-034058).png",
+    "source_position": "034058:linha-1:coluna-2",
+    "original_price_cents": 3000
+  },
+  {
+    "id": "ms-aces-019",
+    "name": "Luva Curta S/mão Pt, U",
+    "category": "Acessórios",
+    "price_cents": 2100,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034058-03.webp",
+    "source_image_file": "image(20260925-034058).png",
+    "source_position": "034058:linha-2:coluna-1",
+    "original_price_cents": 3000
+  },
+  {
+    "id": "ms-aces-020",
+    "name": "Luva Curta Tebejei Vm, U",
+    "category": "Acessórios",
+    "price_cents": 3200,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034058-04.webp",
+    "source_image_file": "image(20260925-034058).png",
+    "source_position": "034058:linha-2:coluna-2",
+    "original_price_cents": 4000
+  },
+  {
+    "id": "ms-aces-021",
+    "name": "Luva Curta Vm, U",
+    "category": "Acessórios",
+    "price_cents": 2250,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034058-05.webp",
+    "source_image_file": "image(20260925-034058).png",
+    "source_position": "034058:linha-3:coluna-1",
+    "original_price_cents": 3000
+  },
+  {
+    "id": "ms-aces-022",
+    "name": "Luva Longa Atrevida Pt, U",
+    "category": "Acessórios",
+    "price_cents": 2250,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034058-06.webp",
+    "source_image_file": "image(20260925-034058).png",
+    "source_position": "034058:linha-3:coluna-2",
+    "original_price_cents": 3000
+  },
+  {
+    "id": "ms-aces-023",
+    "name": "Luva Longa Fashion Br, U",
+    "category": "Acessórios",
+    "price_cents": 2600,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Branca · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034058-07.webp",
+    "source_image_file": "image(20260925-034058).png",
+    "source_position": "034058:linha-4:coluna-1",
+    "original_price_cents": 4000
+  },
+  {
+    "id": "ms-aces-024",
+    "name": "Luva Longa Fashion Pt, U",
+    "category": "Acessórios",
+    "price_cents": 2800,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034058-08.webp",
+    "source_image_file": "image(20260925-034058).png",
+    "source_position": "034058:linha-4:coluna-2",
+    "original_price_cents": 4000
+  },
+  {
+    "id": "ms-aces-025",
+    "name": "Luva Longa Fashion Vm, U",
+    "category": "Acessórios",
+    "price_cents": 2800,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034104-01.webp",
+    "source_image_file": "image(20260925-034104).png",
+    "source_position": "034104:linha-1:coluna-1",
+    "original_price_cents": 4000
+  },
+  {
+    "id": "ms-aces-026",
+    "name": "Luva Longa Louca Pt, U",
+    "category": "Acessórios",
+    "price_cents": 2700,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034104-02.webp",
+    "source_image_file": "image(20260925-034104).png",
+    "source_position": "034104:linha-1:coluna-2",
+    "original_price_cents": 3000
+  },
+  {
+    "id": "ms-aces-027",
+    "name": "Luva Longa Louca Vm, U",
+    "category": "Acessórios",
+    "price_cents": 2700,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034104-03.webp",
+    "source_image_file": "image(20260925-034104).png",
+    "source_position": "034104:linha-2:coluna-1",
+    "original_price_cents": 3000
+  },
+  {
+    "id": "ms-aces-028",
+    "name": "Luva Longa Lycra Az/Ma, U",
+    "category": "Acessórios",
+    "price_cents": 4000,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Azul · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034104-04.webp",
+    "source_image_file": "image(20260925-034104).png",
+    "source_position": "034104:linha-2:coluna-2"
+  },
+  {
+    "id": "ms-aces-029",
+    "name": "Luva Longa Lycra Lj, U",
+    "category": "Acessórios",
+    "price_cents": 2600,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Laranja · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034104-05.webp",
+    "source_image_file": "image(20260925-034104).png",
+    "source_position": "034104:linha-3:coluna-1",
+    "original_price_cents": 4000
+  },
+  {
+    "id": "ms-aces-030",
+    "name": "Luva Longa Lycra Pk, U",
+    "category": "Acessórios",
+    "price_cents": 2600,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Rosa · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034104-06.webp",
+    "source_image_file": "image(20260925-034104).png",
+    "source_position": "034104:linha-3:coluna-2",
+    "original_price_cents": 4000
+  },
+  {
+    "id": "ms-aces-031",
+    "name": "Luva Longa Lycra Rx, U",
+    "category": "Acessórios",
+    "price_cents": 2600,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Roxa · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034104-07.webp",
+    "source_image_file": "image(20260925-034104).png",
+    "source_position": "034104:linha-4:coluna-1",
+    "original_price_cents": 4000
+  },
+  {
+    "id": "ms-aces-032",
+    "name": "Luva Longa Lycra Vm, U",
+    "category": "Acessórios",
+    "price_cents": 2600,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034104-08.webp",
+    "source_image_file": "image(20260925-034104).png",
+    "source_position": "034104:linha-4:coluna-2",
+    "original_price_cents": 4000
+  },
+  {
+    "id": "ms-aces-033",
+    "name": "Luva longa Rendada Vm, U",
+    "category": "Acessórios",
+    "price_cents": 2800,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034111-01.webp",
+    "source_image_file": "image(20260925-034111).png",
+    "source_position": "034111:linha-1:coluna-1",
+    "original_price_cents": 4000
+  },
+  {
+    "id": "ms-aces-034",
+    "name": "Luva Longuete de Lycra Vm, U",
+    "category": "Acessórios",
+    "price_cents": 2600,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034111-02.webp",
+    "source_image_file": "image(20260925-034111).png",
+    "source_position": "034111:linha-1:coluna-2",
+    "original_price_cents": 3000
+  },
+  {
+    "id": "ms-aces-035",
+    "name": "Nipple Tapa Mamilos",
+    "category": "Acessórios",
+    "price_cents": 3400,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelho · modelo 01"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034111-03.webp",
+    "source_image_file": "image(20260925-034111).png",
+    "source_position": "034111:linha-2:coluna-1",
+    "original_price_cents": 4000
+  },
+  {
+    "id": "ms-aces-036",
+    "name": "Nipple Tapa Mamilos",
+    "category": "Acessórios",
+    "price_cents": 3200,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Prata · modelo 02"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034111-04.webp",
+    "source_image_file": "image(20260925-034111).png",
+    "source_position": "034111:linha-2:coluna-2",
+    "original_price_cents": 4000
+  },
+  {
+    "id": "ms-aces-037",
+    "name": "Nipple Tapa Mamilos",
+    "category": "Acessórios",
+    "price_cents": 3600,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelho · modelo 03"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034111-05.webp",
+    "source_image_file": "image(20260925-034111).png",
+    "source_position": "034111:linha-3:coluna-1",
+    "original_price_cents": 4000
+  },
+  {
+    "id": "ms-aces-038",
+    "name": "Nipple Tapa Mamilos",
+    "category": "Acessórios",
+    "price_cents": 1425,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelho · modelo 04"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034111-06.webp",
+    "source_image_file": "image(20260925-034111).png",
+    "source_position": "034111:linha-3:coluna-2",
+    "original_price_cents": 1500
+  },
+  {
+    "id": "ms-aces-039",
+    "name": "Nipple Tapa Mamilos",
+    "category": "Acessórios",
+    "price_cents": 1050,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preto · modelo 05"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034111-07.webp",
+    "source_image_file": "image(20260925-034111).png",
+    "source_position": "034111:linha-4:coluna-1",
+    "original_price_cents": 1500
+  },
+  {
+    "id": "ms-aces-040",
+    "name": "Pera para bomba manual",
+    "category": "Acessórios",
+    "price_cents": 2250,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Único"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034111-08.webp",
+    "source_image_file": "image(20260925-034111).png",
+    "source_position": "034111:linha-4:coluna-2",
+    "original_price_cents": 2500
+  },
+  {
+    "id": "ms-aces-041",
+    "name": "Perneira On, U",
+    "category": "Acessórios",
+    "price_cents": 2450,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Onça · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034114-01.webp",
+    "source_image_file": "image(20260925-034114).png",
+    "source_position": "034114:linha-1:coluna-1",
+    "original_price_cents": 3500
+  },
+  {
+    "id": "ms-aces-042",
+    "name": "Perneira Pt, U",
+    "category": "Acessórios",
+    "price_cents": 2450,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034114-02.webp",
+    "source_image_file": "image(20260925-034114).png",
+    "source_position": "034114:linha-1:coluna-2",
+    "original_price_cents": 3500
+  },
+  {
+    "id": "ms-aces-043",
+    "name": "Perneira Vm, U",
+    "category": "Acessórios",
+    "price_cents": 2400,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha · U"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034114-03.webp",
+    "source_image_file": "image(20260925-034114).png",
+    "source_position": "034114:linha-2:coluna-1",
+    "original_price_cents": 3000
+  },
+  {
+    "id": "ms-aces-044",
+    "name": "Seringa para bomba",
+    "category": "Acessórios",
+    "price_cents": 3850,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Único"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034114-04.webp",
+    "source_image_file": "image(20260925-034114).png",
+    "source_position": "034114:linha-2:coluna-2",
+    "original_price_cents": 5500
+  },
+  {
+    "id": "ms-aces-045",
+    "name": "Tiara Coroa C/strass",
+    "category": "Acessórios",
+    "price_cents": 1500,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Único"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034114-05.webp",
+    "source_image_file": "image(20260925-034114).png",
+    "source_position": "034114:linha-3:coluna-1",
+    "original_price_cents": 2500
+  },
+  {
+    "id": "ms-aces-046",
+    "name": "Tubo para bomba",
+    "category": "Acessórios",
+    "price_cents": 3400,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Único"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034114-06.webp",
+    "source_image_file": "image(20260925-034114).png",
+    "source_position": "034114:linha-3:coluna-2",
+    "original_price_cents": 4000
+  },
+  {
+    "id": "ms-aces-047",
+    "name": "Venda Tecido Rendada, Pt",
+    "category": "Acessórios",
+    "price_cents": 1000,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Preta"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034114-07.webp",
+    "source_image_file": "image(20260925-034114).png",
+    "source_position": "034114:linha-4:coluna-1",
+    "original_price_cents": 2000
+  },
+  {
+    "id": "ms-aces-048",
+    "name": "Venda Tecido Rendada Vm",
+    "category": "Acessórios",
+    "price_cents": 1000,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "Vermelha"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/catalogo/034114-08.webp",
+    "source_image_file": "image(20260925-034114).png",
+    "source_position": "034114:linha-4:coluna-2",
+    "original_price_cents": 2000
+  },
+  {
     "id": "p1",
     "name": "Body de renda Aurora",
     "category": "Lingerie",

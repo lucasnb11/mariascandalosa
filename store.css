@@ -15,5 +15,5 @@
 @media(max-width:650px){.address-grid{grid-template-columns:1fr}.checkout-form{padding:20px}.cep-control button{font-size:13px;padding:10px 12px}}
 
 /* Mostra a área da foto do produto no print original, sem modificar a imagem. */
-.product-art.product-shot{background-color:#fff;background-repeat:no-repeat;background-origin:border-box;overflow:hidden}
+.product-art.product-shot{background-color:#26101d;background-repeat:no-repeat;background-origin:border-box;overflow:hidden}
 .old-price{display:block;width:max-content;color:var(--muted);font-size:14px;font-weight:400;text-decoration:line-through;margin-bottom:3px}
