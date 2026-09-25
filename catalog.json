@@ -1,10 +1,342 @@
 [
-  {"id":"p1","name":"Body de renda Aurora","category":"Lingerie","price_cents":8990,"variants":["P","M","G"],"active":false,"source":"DEMONSTRATIVO"},
-  {"id":"p2","name":"Camisola Noite Rosé","category":"Lingerie","price_cents":7490,"variants":["P","M","G"],"active":false,"source":"DEMONSTRATIVO"},
-  {"id":"p3","name":"Gel de massagem Frutas Vermelhas","category":"Cosméticos","price_cents":3990,"variants":["120 ml"],"active":false,"source":"DEMONSTRATIVO"},
-  {"id":"p4","name":"Óleo corporal Sensações","category":"Cosméticos","price_cents":4800,"variants":["100 ml"],"active":false,"source":"DEMONSTRATIVO"},
-  {"id":"p5","name":"Kit Momento a Dois","category":"Kits","price_cents":11990,"variants":["Único"],"active":false,"source":"DEMONSTRATIVO"},
-  {"id":"p6","name":"Venda de cetim","category":"Acessórios","price_cents":2990,"variants":["Preto","Vinho"],"active":false,"source":"DEMONSTRATIVO"},
-  {"id":"p7","name":"Robe Elegance","category":"Lingerie","price_cents":10990,"variants":["P/M","G/GG"],"active":false,"source":"DEMONSTRATIVO"},
-  {"id":"p8","name":"Vela de massagem Flor de Cerejeira","category":"Cosméticos","price_cents":5990,"variants":["Único"],"active":false,"source":"DEMONSTRATIVO"}
+  {
+    "id": "ms-mast-001",
+    "name": "Masturbador (item 01)",
+    "category": "Masturbadores",
+    "price_cents": 21600,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "A confirmar"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/kyte-masturbadores-01.jpeg",
+    "image_crop": {
+      "x": 50,
+      "y": 30,
+      "size": 374,
+      "source_width": 1170,
+      "source_height": 1750
+    },
+    "source_image_file": "IMG_0955.jpeg",
+    "original_price_cents": 27000
+  },
+  {
+    "id": "ms-mast-002",
+    "name": "Masturbador (item 02)",
+    "category": "Masturbadores",
+    "price_cents": 3825,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "A confirmar"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/kyte-masturbadores-01.jpeg",
+    "image_crop": {
+      "x": 50,
+      "y": 460,
+      "size": 374,
+      "source_width": 1170,
+      "source_height": 1750
+    },
+    "source_image_file": "IMG_0955.jpeg",
+    "original_price_cents": 4500
+  },
+  {
+    "id": "ms-mast-003",
+    "name": "Masturbador (item 03)",
+    "category": "Masturbadores",
+    "price_cents": 5850,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "A confirmar"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/kyte-masturbadores-01.jpeg",
+    "image_crop": {
+      "x": 50,
+      "y": 900,
+      "size": 374,
+      "source_width": 1170,
+      "source_height": 1750
+    },
+    "source_image_file": "IMG_0955.jpeg",
+    "original_price_cents": 6500
+  },
+  {
+    "id": "ms-mast-004",
+    "name": "Masturbador (item 04)",
+    "category": "Masturbadores",
+    "price_cents": 7600,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "A confirmar"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/kyte-masturbadores-01.jpeg",
+    "image_crop": {
+      "x": 50,
+      "y": 1340,
+      "size": 374,
+      "source_width": 1170,
+      "source_height": 1750
+    },
+    "source_image_file": "IMG_0955.jpeg",
+    "original_price_cents": 9500
+  },
+  {
+    "id": "ms-mast-005",
+    "name": "Masturbador Duplo Vagina e Anus",
+    "category": "Masturbadores",
+    "price_cents": 7000,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "A confirmar"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/kyte-masturbadores-02.png",
+    "image_crop": {
+      "x": 50,
+      "y": 30,
+      "size": 374,
+      "source_width": 1170,
+      "source_height": 1749
+    },
+    "source_image_file": "479E2C7F-18A0-4540-840A-BC89FA93283F.png"
+  },
+  {
+    "id": "ms-mast-006",
+    "name": "Masturbador Egg Silky",
+    "category": "Masturbadores",
+    "price_cents": 4000,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "A confirmar"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/kyte-masturbadores-02.png",
+    "image_crop": {
+      "x": 50,
+      "y": 460,
+      "size": 374,
+      "source_width": 1170,
+      "source_height": 1749
+    },
+    "source_image_file": "479E2C7F-18A0-4540-840A-BC89FA93283F.png"
+  },
+  {
+    "id": "ms-mast-007",
+    "name": "Masturbador Egg Spider",
+    "category": "Masturbadores",
+    "price_cents": 4000,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "A confirmar"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/kyte-masturbadores-02.png",
+    "image_crop": {
+      "x": 50,
+      "y": 900,
+      "size": 374,
+      "source_width": 1170,
+      "source_height": 1749
+    },
+    "source_image_file": "479E2C7F-18A0-4540-840A-BC89FA93283F.png"
+  },
+  {
+    "id": "ms-mast-008",
+    "name": "Masturbador Egg Stepper",
+    "category": "Masturbadores",
+    "price_cents": 4000,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "A confirmar"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/kyte-masturbadores-02.png",
+    "image_crop": {
+      "x": 50,
+      "y": 1340,
+      "size": 374,
+      "source_width": 1170,
+      "source_height": 1749
+    },
+    "source_image_file": "479E2C7F-18A0-4540-840A-BC89FA93283F.png"
+  },
+  {
+    "id": "ms-mast-009",
+    "name": "Masturbador Egg Twister",
+    "category": "Masturbadores",
+    "price_cents": 4000,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "A confirmar"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/kyte-masturbadores-03.png",
+    "image_crop": {
+      "x": 50,
+      "y": 30,
+      "size": 374,
+      "source_width": 1170,
+      "source_height": 1328
+    },
+    "source_image_file": "7B9402BD-9148-402E-9CCD-7D9060D0DAC6.png"
+  },
+  {
+    "id": "ms-mast-010",
+    "name": "Masturbador Lanterna Vagina",
+    "category": "Masturbadores",
+    "price_cents": 13500,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "A confirmar"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/kyte-masturbadores-03.png",
+    "image_crop": {
+      "x": 50,
+      "y": 460,
+      "size": 374,
+      "source_width": 1170,
+      "source_height": 1328
+    },
+    "source_image_file": "7B9402BD-9148-402E-9CCD-7D9060D0DAC6.png"
+  },
+  {
+    "id": "ms-mast-011",
+    "name": "Masturbador Vagina Maig 4",
+    "category": "Masturbadores",
+    "price_cents": 9500,
+    "description": "Descrição detalhada pendente de confirmação.",
+    "variants": [
+      "A confirmar"
+    ],
+    "active": false,
+    "source": "REAL",
+    "review_status": "PENDING_DETAILS",
+    "image": "assets/kyte-masturbadores-03.png",
+    "image_crop": {
+      "x": 50,
+      "y": 900,
+      "size": 374,
+      "source_width": 1170,
+      "source_height": 1328
+    },
+    "source_image_file": "7B9402BD-9148-402E-9CCD-7D9060D0DAC6.png"
+  },
+  {
+    "id": "p1",
+    "name": "Body de renda Aurora",
+    "category": "Lingerie",
+    "price_cents": 8990,
+    "variants": [
+      "P",
+      "M",
+      "G"
+    ],
+    "active": false,
+    "source": "DEMONSTRATIVO"
+  },
+  {
+    "id": "p2",
+    "name": "Camisola Noite Rosé",
+    "category": "Lingerie",
+    "price_cents": 7490,
+    "variants": [
+      "P",
+      "M",
+      "G"
+    ],
+    "active": false,
+    "source": "DEMONSTRATIVO"
+  },
+  {
+    "id": "p3",
+    "name": "Gel de massagem Frutas Vermelhas",
+    "category": "Cosméticos",
+    "price_cents": 3990,
+    "variants": [
+      "120 ml"
+    ],
+    "active": false,
+    "source": "DEMONSTRATIVO"
+  },
+  {
+    "id": "p4",
+    "name": "Óleo corporal Sensações",
+    "category": "Cosméticos",
+    "price_cents": 4800,
+    "variants": [
+      "100 ml"
+    ],
+    "active": false,
+    "source": "DEMONSTRATIVO"
+  },
+  {
+    "id": "p5",
+    "name": "Kit Momento a Dois",
+    "category": "Kits",
+    "price_cents": 11990,
+    "variants": [
+      "Único"
+    ],
+    "active": false,
+    "source": "DEMONSTRATIVO"
+  },
+  {
+    "id": "p6",
+    "name": "Venda de cetim",
+    "category": "Acessórios",
+    "price_cents": 2990,
+    "variants": [
+      "Preto",
+      "Vinho"
+    ],
+    "active": false,
+    "source": "DEMONSTRATIVO"
+  },
+  {
+    "id": "p7",
+    "name": "Robe Elegance",
+    "category": "Lingerie",
+    "price_cents": 10990,
+    "variants": [
+      "P/M",
+      "G/GG"
+    ],
+    "active": false,
+    "source": "DEMONSTRATIVO"
+  },
+  {
+    "id": "p8",
+    "name": "Vela de massagem Flor de Cerejeira",
+    "category": "Cosméticos",
+    "price_cents": 5990,
+    "variants": [
+      "Único"
+    ],
+    "active": false,
+    "source": "DEMONSTRATIVO"
+  }
 ]

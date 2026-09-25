@@ -1,22 +1,31 @@
 # Maria Scandalosa Store — PagBank e Vercel
 
-Esta versão 2.1 preserva a vitrine anterior, inclui endereço com preenchimento por CEP e um módulo de pagamento **preparado para ativação**. O cliente escolhe os itens, informa a entrega na loja, conclui Pix ou cartão na página segura do PagBank e volta à loja para acompanhar o status. Crédito pode ser parcelado até o limite configurado; juros e valor de cada parcela são apresentados no PagBank antes de confirmar. Débito requer liberação prévia na conta PagBank.
+Esta versão 2.2 preserva a vitrine anterior, inclui endereço com preenchimento por CEP, os primeiros produtos extraídos de prints do catálogo e um módulo de pagamento **preparado para ativação**. O cliente escolhe os itens, informa a entrega na loja, conclui Pix ou cartão na página segura do PagBank e volta à loja para acompanhar o status quando a cobrança estiver habilitada. Crédito pode ser parcelado até o limite configurado; juros e valor de cada parcela são apresentados no PagBank antes de confirmar. Débito requer liberação prévia na conta PagBank.
 
-**Estado inicial:** os oito produtos continuam demonstrativos e nenhuma cobrança pode ser criada. Não use a área Administração local para cadastrar produtos reais: ela salva apenas no navegador e não altera o catálogo cobrado pelo servidor.
+**Estado inicial:** onze produtos da categoria Masturbadores foram cadastrados com nomes e preços dos prints; os oito produtos anteriores continuam demonstrativos. Os onze estão em revisão (`active: false`) porque as descrições detalhadas, variações e disponibilidade não aparecem nos prints. Nenhuma cobrança pode ser criada. A área Administração local salva apenas os produtos de demonstração neste navegador e não altera `catalog.json`.
+
+## Produtos recebidos nos prints
+
+Consulte `CATALOGO_MASTURBADORES_CONFERENCIA.md` para a tabela completa com os 11 itens, preços atuais exibidos, preços anteriores quando disponíveis e nome do print de origem. As fotos da vitrine usam os três prints originais incluídos em `assets/`; o navegador exibe a área de cada produto sem criar imagens novas. A qualidade é a mesma dos prints enviados. Os quatro produtos nomeados apenas “Masturbador” receberam identificadores provisórios “item 01” a “item 04”.
+
+- `catalog.json` é a fonte de cadastro dos onze itens reais. Todos estão com `source: "REAL"`, `review_status: "PENDING_DETAILS"` e `active: false`. O preço em centavos veio dos prints; preços antigos foram registrados em `original_price_cents` quando visíveis.
+- A vitrine mostra os itens reais em revisão e os oito exemplos enquanto `PAYMENTS_ENABLED=false`. A categoria **Masturbadores** aparece no filtro da loja. A página de cada item mostra o preço promocional e, quando disponível, o preço anterior riscado.
+- Antes de habilitar cobranças, confirme os nomes dos quatro itens genéricos, preços atuais, descrições, variações e estoque; troque `variants: ["A confirmar"]` pelo(s) valor(es) correto(s) e marque `active: true` apenas nos itens aprovados. Para melhor qualidade visual, substitua as fotos oriundas dos prints por fotos originais e retire o objeto `image_crop` correspondente.
+- Mesmo se alguém preencher `PAGBANK_TOKEN` e alterar `PAYMENTS_ENABLED=true`, os itens em revisão não criam cobrança porque o servidor usa somente produtos `REAL` com `active: true`.
 
 ## Publicar na Vercel
 
-1. Descompacte o projeto. Envie **todos** os arquivos e as pastas `api`, `lib` e `migrations` para a raiz de um repositório GitHub, incluindo `address.js` e `checkout-address.js`. Não envie um ZIP para dentro do repositório.
+1. Descompacte o projeto. Envie **todos** os arquivos e as pastas `api`, `lib`, `migrations` e `assets` para a raiz de um repositório GitHub, incluindo `catalog.json`, `address.js` e `checkout-address.js`. Não envie um ZIP para dentro do repositório.
 2. Importe o repositório em **Vercel → Add New → Project**. Framework Preset: **Other**. Deixe Build Command e Output Directory vazios. Node.js: versão compatível com `package.json` (22 ou superior).
 3. Execute `supabase.sql` em um projeto Supabase reservado à loja. A tabela usa RLS e não tem política pública; somente as funções com service role acessam os pedidos.
 4. Configure no painel da Vercel as variáveis da `.env.example`. Nunca coloque o token PagBank ou a service role no JavaScript público, GitHub ou ZIP preenchido.
-5. Substitua o conteúdo de `catalog.json` pelos produtos reais: IDs estáveis, nomes, variações, preços em **centavos**, `source: "REAL"` e `active: true`. Atualize descrições e imagens. O navegador passa a receber esse catálogo quando o módulo estiver habilitado.
+5. Confirme os dados dos 11 itens já lançados em `catalog.json` antes de habilitar cobranças. Quando receber mais categorias, acrescente os produtos reais com IDs estáveis, nomes, variações confirmadas, preços em **centavos**, `source: "REAL"` e `active: true` somente após conferência. Atualize descrições e imagens.
 6. Teste primeiro com `PAGBANK_ENV=sandbox` e `PAYMENTS_ENABLED=true`, usando token de sandbox e URL da versão de teste. Verifique criação do checkout, retorno, webhook assinado, status `PAID`, recusas e Pix pendente. Só então use token de produção, `PAGBANK_ENV=production`, `STORE_BASE_URL` do domínio definitivo e faça novo deploy.
 
 ## Atualizar uma instalação anterior
 
 1. No SQL Editor do Supabase, execute `migrations/002_shipping_address.sql` **antes** de publicar os novos arquivos. A migração adiciona a coluna de endereço e preserva os pedidos existentes. Quem instala pela primeira vez pode executar somente `supabase.sql`, que já inclui a atualização.
-2. Substitua os arquivos do projeto no repositório e faça novo deploy na Vercel. Mantenha as variáveis de ambiente já configuradas; o preenchimento por CEP não precisa de chave.
+2. Substitua os arquivos do projeto no repositório e faça novo deploy na Vercel. Mantenha as variáveis de ambiente já configuradas; para atualizar apenas o catálogo da versão 2.1 para 2.2, **nenhuma nova migração SQL é necessária**. As imagens exigem enviar a pasta `assets`.
 
 ## Endereço de entrega
 

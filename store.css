@@ -13,3 +13,7 @@
 .shipping-summary{display:flex;justify-content:space-between;gap:16px;color:var(--muted)}.checkout-summary .summary:last-of-type{border-top:1px solid var(--line);padding-top:20px}
 .form-control:focus-visible{outline:2px solid var(--rose2);outline-offset:3px}
 @media(max-width:650px){.address-grid{grid-template-columns:1fr}.checkout-form{padding:20px}.cep-control button{font-size:13px;padding:10px 12px}}
+
+/* Mostra a área da foto do produto no print original, sem modificar a imagem. */
+.product-art.product-shot{background-color:#fff;background-repeat:no-repeat;background-origin:border-box;overflow:hidden}
+.old-price{display:block;width:max-content;color:var(--muted);font-size:14px;font-weight:400;text-decoration:line-through;margin-bottom:3px}
